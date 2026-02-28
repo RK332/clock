@@ -17,9 +17,9 @@
 
 ## 📱页面截图
 
-<img src="C:\Users\李明博RK\Desktop\Snipaste_2026-02-28_13-37-33.png" style="zoom: 50%;" />
+<img src="screenshots/Snipaste_2026-02-28_13-37-33.png" width="50%" />
 
-<img src="C:\Users\李明博RK\Desktop\Snipaste_2026-02-28_13-39-53.png" style="zoom:50%;" />
+<img src="screenshots/Snipaste_2026-02-28_13-39-53.png" width="50%" />
 
 ## 📱 页面结构
 
@@ -88,3 +88,4 @@ pages/
   "miniprogramRoot": ""
 }
 ```
+
